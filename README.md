@@ -9,8 +9,8 @@ e a Previsao de uma resposta baseada nas transcrições dos audios
 ## Projeto criado no evento NLW - Agents
 
 ### Ferrmetas
-1 - Node.js
-2 - Fastify
-3 - Google Gemini
-4 - Postgres
-5 - Docker
+- Node.js
+- Fastify
+- Google Gemini
+- Postgres
+- Docker

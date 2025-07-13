@@ -15,6 +15,13 @@
       "when": 1752107375331,
       "tag": "0001_romantic_fixer",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752287061079,
+      "tag": "0002_cheerful_risque",
+      "breakpoints": true
     }
   ]
 }
